@@ -1,0 +1,29 @@
+Group,Donor ID,Age at Death,Sex,Cognitive Status,Overall AD neuropathological Change,Braak,PMI,Brain pH,RIN
+AD - Male,H20.33.020,81,Male,Dementia,High,Braak VI,6.63,6.8,8.98
+AD - Male,H21.33.046,97,Male,Dementia,High,Braak V,7.0,6.4,7.28
+AD - Male,H21.33.029,89,Male,Dementia,High,Braak V,11.03,6.4,7.2
+AD - Male,H21.33.027,92,Male,Dementia,High,Braak V,6.3,6.4,7.93
+AD - Male,H20.33.017,69,Male,Dementia,High,Braak VI,5.5,7.2,8.82
+AD - Male,H20.33.004,86,Male,Dementia,High,Braak V,8.83,6.7,7.83
+AD - Male,H21.33.031,84,Male,Dementia,High,Braak V,8.9,6.4,8.43
+AD - Female,H21.33.002,70,Female,Dementia,High,Braak VI,3.2,6.8,9.18
+AD - Female,H21.33.007,86,Female,Dementia,High,Braak V,5.6,7.0,8.33
+AD - Female,H20.33.011,93,Female,Dementia,High,Braak V,6.0,7.0,9.07
+AD - Female,H21.33.042,91,Female,Dementia,High,Braak V,8.1,6.4,6.23
+AD - Female,H21.33.013,94,Female,Dementia,High,Braak V,7.3,6.8,9.07
+AD - Female,H20.33.026,75,Female,Dementia,High,Braak VI,7.0,7.2,9.53
+AD - Female,H20.33.029,91,Female,Dementia,High,Braak V,6.1,6.5,9.43
+Control - Male,H20.33.043,85,Male,No dementia,Intermediate,Braak IV,4.5,7.0,9.37
+Control - Male,H21.33.014,92,Male,No dementia,Intermediate,Braak IV,9.5,6.8,9.57
+Control - Male,H21.33.006,97,Male,No dementia,Intermediate,Braak IV,9.8,6.8,8.63
+Control - Male,H21.33.015,98,Male,No dementia,Low,Braak IV,4.1,6.8,8.83
+Control - Male,H20.33.013,94,Male,No dementia,Intermediate,Braak IV,4.5,7.6,9.08
+Control - Male,H21.33.023,102,Male,No dementia,Not AD,Braak IV,7.83,6.6,9.28
+Control - Male,H20.33.001,82,Male,No dementia,Low,Braak IV,7.7,6.8,8.6
+Control - Female,H20.33.002,97,Female,No dementia,Not AD,Braak IV,4.33,7.3,7.87
+Control - Female,H20.33.035,99,Female,No dementia,Not AD,Braak IV,4.6,6.6,9.04
+Control - Female,H21.33.011,83,Female,No dementia,Not AD,Braak IV,3.6,6.8,9.3
+Control - Female,H19.33.004,80,Female,No dementia,Not AD,Braak IV,8.13,7.0,8.33
+Control - Female,H21.33.041,98,Female,No dementia,Not AD,Braak IV,7.5,6.4,7.57
+Control - Female,H20.33.027,99,Female,No dementia,Intermediate,Braak IV,9.23,6.7,8.87
+Control - Female,H20.33.005,99,Female,No dementia,Intermediate,Braak IV,7.6,6.8,8.4
