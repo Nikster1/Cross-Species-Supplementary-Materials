@@ -1,3 +1,5 @@
+
+CC BY 4.0
 # Supplementary Information
 
 Supplementary data which uses equal-representation donor selection across sex and Alzheimer's disease (AD) status to study prefrontal cortex (PFC) tissue.
