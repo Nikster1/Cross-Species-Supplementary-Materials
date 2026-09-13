@@ -18,7 +18,7 @@ Selection Criteria:
 | Control - Male | Braak IV, No dementia, Not AD / Low / Intermediate neuropathology, Male |
 | Control - Female | Braak IV, No dementia, Not AD / Low / Intermediate neuropathology, Female |
 
-Four donors per group (16 total) were randomly selected using a composite tissue-quality weighting (PMI, brain pH, RIN). Severely affected donors were excluded from the AD pool prior to selection.
+Seven donors per group (28 total) were randomly selected using a composite tissue-quality weighting (PMI, brain pH, RIN). Severely affected donors were excluded from the AD pool prior to selection.
 
 `find_donors.py` reproduces the selection from `DONOR-METADATA.csv` with a fixed random seed (`np.random.seed(42)`).
 
